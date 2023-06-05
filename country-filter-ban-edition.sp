@@ -36,11 +36,11 @@ new g_chatannouncements;
 
 public Plugin:myinfo =
 {
-	name = "Country Filter 2nd Edition",
-	author = "Bacardi",
+	name = "Country Filter Ban Edition",
+	author = "Bacardi/TestieTendie",
 	description = "Allow or reject certain countries connect to your server.",
-	version = "2.0.4",
-	url = "http://www.sourcemod.net/"
+	version = "2.0.5",
+	url = "http://www.testietendie.xyz/"
 }
 
 public OnPluginStart()
