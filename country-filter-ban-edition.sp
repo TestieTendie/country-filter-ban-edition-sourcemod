@@ -1,11 +1,11 @@
 /**
 	Original Country Filter by Knagg0 http://forums.alliedmods.net/showthread.php?t=56188
-  Original Country Filter 2nd Edition by Bacardi https://forums.alliedmods.net/showthread.php?t=144571
+	Original Country Filter 2nd Edition by Bacardi https://forums.alliedmods.net/showthread.php?t=144571
 
-
-	Country Filter Ban Edition, Version 2.0.5
 	- Re-write whole crab 18.3.2011
-  - Added client ban after kick to prevent players from spending minutes loading only to get kicked again.
+	
+	Country Filter Ban Edition, Version 2.0.5
+	- Added client ban after kick to prevent players from spending minutes loading only to get kicked again.
 */
 
 #include <sourcemod>
