@@ -38,7 +38,7 @@ public Plugin:myinfo =
 {
 	name = "Country Filter Ban Edition",
 	author = "Bacardi/TestieTendie",
-	description = "Allow or reject certain countries connect to your server.",
+	description = "Allow or reject certain countries connect to your server, ban kicked players to prevent wasting their time in loading screens on subsequent connections.",
 	version = "2.0.5",
 	url = "http://www.testietendie.xyz/"
 }
